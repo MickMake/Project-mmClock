@@ -32,5 +32,5 @@ All the important defines are in the [common.h](Clock/common.h) file.
 Make sure you update these to the correct settings.
 
 ## MP3 files - SDcard/
-Copy all the files under (SDcard/)[SDcard/] to an SD card. You can create your own, but make sure that you keep the same order as define in [ClockMP3defs.h](Clock/ClockMP3defs.h).
+Copy all the files under [SDcard/](SDcard/) to an SD card. You can create your own, but make sure that you keep the same order as define in [ClockMP3defs.h](Clock/ClockMP3defs.h).
 
