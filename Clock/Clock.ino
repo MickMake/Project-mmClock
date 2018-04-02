@@ -9,7 +9,7 @@
 #include <time.h> 
 #include <WiFi.h>
 #include <ESP32WebServer.h>
-#include "DFRobot_HT1632C.h"
+#include "DFRobot_HT1632C.h" // https://github.com/Chocho2017/FireBeetleLEDMatrix
 #include <Thread.h>
 #include <ThreadController.h>
 #include <ArduinoJson.h>
