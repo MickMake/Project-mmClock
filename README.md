@@ -34,3 +34,15 @@ Make sure you update these to the correct settings.
 ## MP3 files - SDcard/
 Copy all the files under [SDcard/](SDcard/) to an SD card. You can create your own, but make sure that you keep the same order as define in [ClockMP3defs.h](Clock/ClockMP3defs.h).
 
+## Other libraries
+To use: Download the [FireBeetle Covers-24X8 LED Matrix files](https://github.com/Chocho2017/FireBeetleLEDMatrix), unzip the file and copy the two files:
+
+	DFRobot_HT1632C.cpp
+	DFRobot_HT1632C.h
+
+to the [Clock/](Clock/) directory.
+
+
+
+
+
